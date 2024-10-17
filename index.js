@@ -860,5 +860,6 @@ var SEPARATION = 100,
         renderer.render(scene, camera);
  
         count += 0.1;
+        console.log("1")
  
     }
